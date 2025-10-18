@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im junior frontend developer <br>and software engineer student in my town <br>coding is cool
+Im a software engineer and senior frontend developer <br> <br>coding is cool
 
 
 ## 🌐 Socials:
